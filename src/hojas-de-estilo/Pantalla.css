@@ -1,0 +1,16 @@
+.input{
+    height: 75px;
+    border-radius: 50px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: flex-end; /* hace q el texto se alinee a la derecha  (horizontalment)*/
+    align-items: center; /* alineacion vertical */ 
+    font-weight: bold;
+    font-size: 30px;
+    background-color: white;
+    color: brown;
+    padding: 11px;
+    padding-right: 30px;
+    margin: 1px solid grey;
+    
+}
